@@ -1,5 +1,5 @@
 ﻿Cuento de Blancanieves
 
 Había una vez una princesa muy hermosa. Vivía con su madrastra malvada, que la hacía trabajar todos los días. Añadimos un cambio para hacer un Pull.
-
-Cambio para probar Github desktop.
+Cambio para probar GitHub desktop.
+Cambio para hacer un pull desde GitHub desktop al repositorio local en la PC.
